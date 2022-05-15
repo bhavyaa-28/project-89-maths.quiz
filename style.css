@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+    background: linear-gradient(rgb(0, 26, 255) 0%, rgb(15, 184, 0) 100%);
+}
+
+h1{
+    font-family: 'Palette Mosaic', cursive;
+}
+
+h2{
+    font-family: 'Smokum', cursive;
+}
+
+#login1 {
+
+background-color: black;
+color: white;
+height: 20px;
+width: 45px;
+font-size: 10px;
+
+}
